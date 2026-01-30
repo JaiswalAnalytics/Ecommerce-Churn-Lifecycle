@@ -35,7 +35,6 @@ The solution utilizes a **Medallion Architecture** managed by **Unity Catalog** 
 
 ## 📊 Evidence
 * **Verified Run ID:** `9b9d1c8c8838499c85c0010a05a4a661`
-* **Presentation:** [View the full Project Presentation](docs/Presentation_Script.pdf)
 
 ## 🛡️ License
 This project is for educational/portfolio purposes.
