@@ -8,10 +8,10 @@
 ## 📋 Project Overview
 This project implements a fully governed, production-grade Machine Learning pipeline to predict customer churn. Unlike standard modeling experiments, this solution focuses on the **entire AI lifecycle**: from raw data ingestion to an actionable retention strategy.
 
-**Business Impact:**
+**Results:**
 - Identified **5,881 high-risk customers** for immediate intervention.
-- Automated a **25% Discount Voucher** campaign for high-value/high-risk segments.
-- Scalable architecture tested on **1M+ transactions** with a design target of **1B rows**.
+- Defined a retention rule (high risk + high value → 25% voucher) segments.
+- Scalable architecture tested on **1M+ transactions** with a design target of **1M+ rows**.
 
 ---
 
@@ -37,4 +37,4 @@ The solution utilizes a **Medallion Architecture** managed by **Unity Catalog** 
 * **Verified Run ID:** `9b9d1c8c8838499c85c0010a05a4a661`
 
 ## 🛡️ License
-This project is for educational/portfolio purposes.
+Governed pipeline built on Unity Catalog.
